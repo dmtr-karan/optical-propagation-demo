@@ -108,20 +108,6 @@ z = 0.30;            % propagation distance
 
 ---
 
-## ✦ Notes for Reviewers
-
-This demo illustrates:
-
-- GPU-based optical simulation design  
-- Efficient FFT-based propagation  
-- Independent validation paths (ASM vs 2-Step Fresnel)  
-- Clear separation between physics, sampling rules, and visualization  
-- Modular MATLAB design suitable for XR, holography, laser optics, and imaging systems
-
-The repository is intentionally minimal and optimized for clarity and technical discussion.
-
----
-
 ## ✦ License
 
 MIT License (or update if desired)
