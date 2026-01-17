@@ -110,4 +110,4 @@ z = 0.30;            % propagation distance
 
 ## ✦ License
 
-MIT License (or update if desired)
+MIT License
