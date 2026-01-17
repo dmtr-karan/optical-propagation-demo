@@ -1,6 +1,6 @@
 # GPU-Accelerated Optical Propagation Demo (LG Beam, ASM, 2-Step Fresnel)
 
-This repository contains a compact, interview-ready MATLAB demonstration of  
+This repository contains a compact MATLAB demonstration of  
 **GPU-accelerated scalar optical field propagation** using two independent methods:
 
 - **Angular Spectrum Method (ASM)**
